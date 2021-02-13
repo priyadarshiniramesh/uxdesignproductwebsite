@@ -16,6 +16,8 @@ Creating links and linking it with artboards
 ### Step 6:
 Preview the prototype.
 
+
+
 ## DESIGN SCREENS:
 
 ![output](./static/image/design1.jpg)
@@ -26,8 +28,11 @@ Preview the prototype.
 
 
 
+
 ## WIREFRAME:
 ![output](./static/image/wireframe1.jpg)
+
+
 
 
 
@@ -36,6 +41,8 @@ Preview the prototype.
 ![output](./static/image/prototype2.jpg)
 ![output](./static/image/prototype3.jpg)
 ![output](./static/image/prototype4.jpg)
+
+
 
 
 
